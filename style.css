@@ -41,7 +41,7 @@ header > div {
 .content {
     padding: 20px;
     display: flex;
-    gap: 50px;
+    gap: 30px;
     justify-content: center;
     flex-wrap: wrap;
 }
